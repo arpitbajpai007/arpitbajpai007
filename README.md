@@ -1,7 +1,7 @@
 # Hi there 👋 my name is Arpit
 
-🔭 I’m currently working on MERN Stack
-📫 How to reach me on arpitprasu@gmail.com
+- 🔭 I’m currently working on MERN Stack
+- 📫 How to reach me on arpitprasu@gmail.com
 
 <!--
 **arpitbajpai007/arpitbajpai007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
